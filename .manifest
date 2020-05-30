@@ -1,0 +1,9 @@
+{
+	"platforms": ["web"],
+	"templater": "jinja2",
+	"properties": {
+		"title": "amplab",
+		"resolutionWidth": 1280,
+		"resolutionHeight": 720
+	}
+}
